@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>第一节课(发布测试，无内容)</title>
+    <url>/2020/09/05/First-Lesson/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>第一门课介绍：<br>学习基本语法<br>学习宾语从句<br>学习定语从句</p>
+<p>教学视频测试：</p>
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"hotkey":true,"preload":"metadata","video":{"url":"./YW.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+
+]]></content>
+      <categories>
+        <category>课程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>团队介绍 （发布测试，无内容）</title>
     <url>/2020/09/05/Intro/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>间距测试</p>
 ]]></content>
       <categories>
         <category>介绍</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>第二节课 （发布测试，无内容）</title>
-    <url>/2020/09/05/Second-Lesson/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>格式测试：<br>    1.格式<br>    2.格式<br>    3.格式<br>    4.格式<br>图片测试：</p>
-]]></content>
-      <categories>
-        <category>课程</category>
-        <category>英语科目</category>
       </categories>
   </entry>
   <entry>
@@ -119,15 +121,13 @@
       </categories>
   </entry>
   <entry>
-    <title>第一节课(发布测试，无内容)</title>
-    <url>/2020/09/05/First-Lesson/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>第一门课介绍：<br>学习基本语法<br>学习宾语从句<br>学习定语从句</p>
-<p>教学视频测试：</p>
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"hotkey":true,"preload":"metadata","video":{"url":"./YW.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
-
+    <title>第二节课 （发布测试，无内容）</title>
+    <url>/2020/09/05/Second-Lesson/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>格式测试：<br>    1.格式<br>    2.格式<br>    3.格式<br>    4.格式<br>图片测试：</p>
 ]]></content>
       <categories>
         <category>课程</category>
+        <category>英语科目</category>
       </categories>
   </entry>
 </search>
