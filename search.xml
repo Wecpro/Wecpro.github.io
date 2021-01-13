@@ -1,133 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>第一节课(发布测试，无内容)</title>
-    <url>/2020/09/05/First-Lesson/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>第一门课介绍：<br>学习基本语法<br>学习宾语从句<br>学习定语从句</p>
-<p>教学视频测试：</p>
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"hotkey":true,"preload":"metadata","video":{"url":"./YW.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
-
-]]></content>
-      <categories>
-        <category>课程</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>团队介绍 （发布测试，无内容）</title>
+    <title>团队宗旨</title>
     <url>/2020/09/05/Intro/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>间距测试</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
+<center> 
+团队标语中的“術”字出自《孟子·告子下》：“教亦多术矣，予不屑之教诲也者，是亦教诲之而已矣。”意为教学的方式不局限，受教育的人群也不局限。術是”术“和”行“的结合，我们希望从实践中帮助更好乡村群众更好的认识到教育的重要意义，摆脱信息贫困，改善接受更加优质的教育。
+</center>
+
+<hr>
+<p> &nbsp;<br>从宇宙中看地球，你看不见地界线，也看不见国界线。 </p>
+<p>人与人之间不应该被这些看不见的线所绊住 </p>
+<p>在流明线上教育平台，我们的老师来自世界各地，我们的学生来自中国各地。 </p>
+<p>未来也许我们的学生也会遍布世界。 </p>
+<p>因为无论你来自哪里，只要你想学习，我们的老师都愿意帮你。 </p>
+<p>我们本就同属一源 </p>
+<p> &nbsp;<br><em>Looking at the earth from space,<br>you can’t see the earth boundary,<br>you can’t see the national boundary.<br>People should not be limited by these invisible lines.<br>At Lumio Online Teaching Platform,<br>our teachers come from all over the world, and our students come from all over China.<br>Maybe in the future we’ll have students all over the world.<br>Because no matter where you come from,<br>if you want to learn, our teachers are ready to help you.<br>We are all human; we are all brothers and sisters.</em> </p>
 ]]></content>
       <categories>
         <category>介绍</category>
       </categories>
   </entry>
   <entry>
-    <title>Markdown测试(内容测试，点击查看)</title>
-    <url>/2020/09/05/MarkdownTest/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Markdown编译器测试"><a href="#Markdown编译器测试" class="headerlink" title="Markdown编译器测试"></a><strong>Markdown编译器测试</strong></h2><p>&nbsp;</p>
-<p> <strong>1.</strong> <u><strong>图片测试</strong></u> </li></p>
-<p><img src="https://img-blog.csdnimg.cn/20200910155021228.PNG?x-oss-type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L09pZXIwMDg=,size_16,color_FFFFFF,t_70#pic_center" alt="Rent精句赏析"></p>
-<p><strong>2.</strong> <u><strong>视频测试</strong></u></p>
-<div class="video-container">
-<iframe height=498 width=510 src='https://player.youku.com/embed/XNDU0MjA3NDYyMA==' frameborder=0 'allowfullscreen'></iframe>
- </div>
- <style type="text/css">
-        .video-container {
-            position: relative;
-            padding-bottom: 56.25%;
-            padding-top: 30px;
-            height: 0;
-            overflow: hidden;
-        }
-        .video-container iframe {
-            position: absolute;
-            top:0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-        }
-    </style>
-
-
-<p><strong>3.</strong> <u><strong>表格测试</strong></u></p>
-<table>
-<thead>
-<tr>
-<th>单词</th>
-<th>现在式</th>
-<th>过去式</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>3</td>
-<td>4</td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>4</td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>4</td>
-<td></td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th align="center">Academy</th>
-<th align="right">score</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Harry Potter</td>
-<td align="center">Gryffindor</td>
-<td align="right">90</td>
-</tr>
-<tr>
-<td>Hermione Granger</td>
-<td align="center">Gryffindor</td>
-<td align="right">100</td>
-</tr>
-<tr>
-<td>Draco Malfoy</td>
-<td align="center">Slytherin</td>
-<td align="right">90</td>
-</tr>
-</tbody></table>
-<p><strong>4.</strong> <u><strong>链接测试</strong></u></p>
-<ul>
-<li><p>点击以下链接：<a href="https://jingyan.baidu.com/article/ff4116256c24a752e5823758.html">PS教程</a></p>
-</li>
-<li><p><strong>-</strong> List item</p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>课程</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>第二节课 （发布测试，无内容）</title>
-    <url>/2020/09/05/Second-Lesson/</url>
+    <title>流明英语听读课-第一单元学习资料</title>
+    <url>/2020/10/05/Lumio_Specking_Unit1/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>格式测试：<br>    1.格式<br>    2.格式<br>    3.格式<br>    4.格式<br>图片测试：</p>
 ]]></content>
       <categories>
         <category>课程</category>
-        <category>英语科目</category>
+        <category>英语写作</category>
+        <category>中班</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>流明英语写作课-第一单元学习资料</title>
+    <url>/2020/10/05/Lumio_Writing_Unit1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>第一门课介绍：<br>学习基本语法<br>学习宾语从句<br>学习定语从句</p>
+<p>教学视频测试：</p>
+]]></content>
+      <categories>
+        <category>课程</category>
+        <category>英语写作</category>
+        <category>中班</category>
       </categories>
   </entry>
 </search>
